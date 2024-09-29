@@ -1,0 +1,127 @@
+{
+  "ContactsDetails": [
+    {
+      "cname": "john",
+      "cno": "387876546",
+      "cemail": "john@123",
+      "id": "b8a1"
+    },
+    {
+      "cname": "peter",
+      "cno": "38789757656",
+      "cemail": "peter@123",
+      "id": "cc5a"
+    },
+    {
+      "cname": "jack",
+      "cno": "3878787767",
+      "cemail": "jack@123",
+      "id": "e8d9"
+    },
+    {
+      "id": "d7b0",
+      "cname": "jack",
+      "cno": 3878787767,
+      "cemail": "jack@123"
+    },
+    {
+      "id": "93bf",
+      "cname": "loki",
+      "cno": 9003804225,
+      "cemail": "loki@123"
+    },
+    {
+      "id": "b11b",
+      "cname": "anand",
+      "cno": 9748470,
+      "cemail": "anand@123"
+    }
+  ],
+  "AdminDetails": [
+    {
+      "id": "d41c",
+      "adminname": "lokesh",
+      "adminpassword": "654321",
+      "adminemail": "lekesh@1234",
+      "phonenumber": "8234567898",
+      "image": "blob:http://localhost:3000/3ffdd9b6-5cf1-4a99-8131-fb11235c663b",
+      "quizQuestions": {
+        "languageName": "Node",
+        "questionsList": [
+          {
+            "question": "1",
+            "answers": [
+              "1",
+              "22",
+              "2",
+              "2"
+            ],
+            "correctAnswer": "2"
+          },
+          {
+            "question": "1",
+            "answers": [
+              "11",
+              "2",
+              "34",
+              "4"
+            ],
+            "correctAnswer": "3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2a75",
+      "adminname": "teja",
+      "adminpassword": "345678",
+      "adminemail": "teja123@gmail.com",
+      "phonenumber": "8234567898",
+      "quizQuestions": {
+        "languageName": "Node Js",
+        "questionsList": [
+          {
+            "question": "1",
+            "answers": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "correctAnswer": "2"
+          }
+        ]
+      },
+      "image": "blob:http://localhost:3000/250f4f9b-eaa6-4464-964c-9cc319a39ef2"
+    }
+  ],
+  "userDetails": [
+    {
+      "id": "ea75",
+      "adminname": "lokesh",
+      "adminpassword": "123456",
+      "adminemail": "lokesh123@gmail.com",
+      "phonenumber": "7234567898",
+      "image": "blob:http://localhost:3000/06ea87be-53e1-4a52-b751-e1f9e37e4d0e",
+      "score": "0/ 1",
+      "langName": "Node Js"
+    },
+    {
+      "id": "fd2f",
+      "adminname": "naveen",
+      "adminpassword": "654321",
+      "adminemail": "marripatinaveen123@gmail.com",
+      "phonenumber": "7330710253"
+    },
+    {
+      "id": "fca3",
+      "adminname": "teja",
+      "adminpassword": "765432",
+      "adminemail": "teja123@gmail.com",
+      "phonenumber": "8234567898",
+      "image": "blob:http://localhost:3000/966b3b35-a095-4a9a-9582-f493986eb688",
+      "score": "0/ 1",
+      "langName": "React"
+    }
+  ]
+}

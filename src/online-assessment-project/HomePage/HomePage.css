@@ -1,0 +1,173 @@
+.mcqcontainer{
+    background-image: url("https://t4.ftcdn.net/jpg/06/12/66/99/360_F_612669999_4f03B7jz4LYrlCKrHlPrSGv9eyOAiCjM.jpg");
+    height:100px;
+    width:100vw;
+    background-size: cover;
+    display:flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.mcqlogo{
+    height:80px;
+    width: 80px;
+    border-radius: 50%;
+    margin:10px;
+}
+.mcqbutton{
+    height: 40px;
+    width:70px;
+    background-color: white;
+    border-radius: 5px;
+    color:black;
+    border-width: 0px;
+    margin:10px;
+    text-align: center;
+    margin-right: 50px;
+}
+.mcqimage{
+    width:400px;
+    height:400px;
+    margin-left: 400px;
+}
+.popupcontainer{
+    margin:10px;
+    display:flex;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+.mcqcontainer1{
+    display: flex;
+    justify-content: space-between;
+}
+.mcqbutton1{
+    height: 40px;
+    width:100px;
+    background-color:white;
+    border-radius: 5px;
+    color:black;
+    border-width: 0px;
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 90px;
+    box-shadow: 0px 4px 16px 0px;
+}
+.mcqcontainer2{
+    background-image: url("https://t4.ftcdn.net/jpg/06/12/66/99/360_F_612669999_4f03B7jz4LYrlCKrHlPrSGv9eyOAiCjM.jpg");
+    height:80px;
+    width:100vw;
+    background-size: cover;
+}
+.signupbutton{
+    height: 35px;
+    width:91px;
+    font-size:12px;
+    margin: 2px;
+    box-shadow: 0px 4px 8px 0px;
+    background-color: #0e6a6e;
+    color:white;
+    border-radius: 5px;
+    border-width: 0px;
+}
+.popupflexing{
+    display:flex;
+} */
+
+
+
+.mcqcontainer {
+    background-image: url("https://99percentinvisible.org/app/uploads/2019/02/abstract-background-colors.jpg");
+    height: 100px;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+  }
+  
+  .mcqlogo {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin: 10px;
+  }
+  
+  .mcqbutton {
+    height: 40px;
+    width: 70px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    border-width: 0px;
+    margin: 10px;
+    text-align: center;
+    margin-right: 50px;
+  }
+  
+  .mcqimage {
+    width: 400px;
+    height: 400px;
+    margin-left: 400px;
+  }
+
+  .popupcontainer {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+  }
+  
+  .mcqcontainer1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+  
+  .mcqbutton1 {
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    border-width: 0px;
+    text-align: center;
+    box-shadow: 0px 4px 16px 0px;
+    margin-top: 10px;
+  }
+  
+  .mcqcontainer2 {
+    background-image: url("https://t4.ftcdn.net/jpg/06/12/66/99/360_F_612669999_4f03B7jz4LYrlCKrHlPrSGv9eyOAiCjM.jpg");
+    height: 80px;
+    width: 100vw;
+    background-size: cover;
+  }
+  
+  .signupbutton {
+    height: 35px;
+    width: 91px;
+    font-size: 12px;
+    margin: 2px;
+    box-shadow: 0px 4px 8px 0px;
+    background-color: #0e6a6e;
+    color: white;
+    border-radius: 5px;
+    border-width: 0px;
+  }
+  
+  .popupflexing {
+    display: flex;
+  }
+  
+  .headingContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 100px;
+  }
+  
+  .quizHeading {
+    font-size: 55px;
+    color: #0e6a6e;
+    margin-bottom: 10px;
+  }
